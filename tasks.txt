@@ -1,0 +1,4 @@
+cosmin; Capstone Project - Variables and Control Structures; create a financial calculator using variables and control structures;2023-12-17;2024-02-29;Yes
+cosmin; Control Structures - For Loop; task using for loop;2023-12-27;2024-02-29;Yes
+cosmin; Data Structures - Lists and Dictionaries; task implying lists and dictionaries;2024-01-15;2024-02-29;Yes
+john; Capstone Project - Lists, Functions, and String Handling; task manager using lists, dictionaries, functions, string and file handling;2024-02-15;2024-02-29;Yes

@@ -1,0 +1,33 @@
+User Overview
+
+Total number of users registered: 4
+Total number of tasks generated and tracked: 4
+
+User: admin
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+
+User: cosmin
+Total number of tasks assigned: 3
+Percentage of total tasks assigned: 75.00%
+Percentage of tasks completed: 100.00%
+Percentage of tasks remaining: 0.00%
+Percentage of overdue tasks: 0.00%
+
+User: exegeser
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 0.00%
+
+User: john
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 25.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks remaining: 100.00%
+Percentage of overdue tasks: 100.00%
+
